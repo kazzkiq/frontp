@@ -1,0 +1,10 @@
+/*
+ * As your app's backend is under development, you can simulate AJAX requests
+ * to files into this folder to keep working on client-side.
+ */
+
+{
+	"user_id": 102932039,
+	"user_name": "John Doe.",
+	"email": "john.doe@mail.com"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Writttit-frontend",
+  "version": "1.0.0",
+  "description": "We give you the paper, up to you to fill it.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "testunit"
+  },
+  "keywords": [
+    "writttit"
+  ],
+  "author": "Claudio Holanda Jr",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.1",
+    "gulp-minify-css": "^0.5.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-riot": "^0.2.12",
+    "gulp-file-include": "^0.9.0"
+  }
+}
