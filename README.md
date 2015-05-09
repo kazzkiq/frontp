@@ -25,6 +25,14 @@ cd frontp
 npm install
 node server.js
 ```
+
+Then
+
+```bash
+gulp compile:all
+gulp watch:all
+```
+
 Now you can access your app by: http://127.0.0.1:8888
 
 ----
