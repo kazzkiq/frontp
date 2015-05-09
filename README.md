@@ -23,13 +23,13 @@ Frontp uses 3rd party packages to fastly give you an environment with the bellow
 git clone https://github.com/kazzkiq/frontp.git
 cd frontp
 npm install
+gulp compile:all
 node server.js
 ```
 
-Then
+If you want don't want to manually compile everything each time you edit a file you can run:
 
 ```bash
-gulp compile:all
 gulp watch:all
 ```
 
