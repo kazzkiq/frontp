@@ -37,7 +37,7 @@ Now you can access your app by: http://127.0.0.1:8888
 
 ----
 
-> **Obs.:** Alternatively to the Node.js server, you can do the first three steps into any HTTP server you have (Apache, NGINX, etc) and access your app via: `http://your-local-addr:your-port/frontp/app/dist/index.html`
+> **Obs.:** Alternatively to the Node.js server, you can do the first four steps into any HTTP server you have (Apache, NGINX, etc) and access your app via: `http://your-local-addr:your-port/frontp/app/dist/index.html`
 
 ## About LESS
 The project uses LESS as the default tool for CSS preprocessing, but feel free to change it to SASS or whatever you want to. Just replace `package.json` dependencies and gulp functions and requires and it must work just fine.
