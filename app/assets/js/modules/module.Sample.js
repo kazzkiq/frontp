@@ -4,20 +4,20 @@
 
 var Sample = (function(){
 
-	return {
+    return {
 
-		greetingMsg: "Hello World!",
-		
-		init: function() {
-			console.log(this.greetingMsg)
-			console.log(this.timestamp())
-		},
+        greetingMsg: "Hello World!",
+        
+        init: function() {
+            console.log(this.greetingMsg)
+            console.log(this.timestamp())
+        },
 
-		timestamp: function() {
-			return +(new Date());
-		}
+        timestamp: function() {
+            return +(new Date());
+        }
 
-	}
+    }
 
 })();
 

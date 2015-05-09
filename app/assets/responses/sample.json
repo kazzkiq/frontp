@@ -4,7 +4,7 @@
  */
 
 {
-	"user_id": 102932039,
-	"user_name": "John Doe.",
-	"email": "john.doe@mail.com"
+    "user_id": 102932039,
+    "user_name": "John Doe.",
+    "email": "john.doe@mail.com"
 }

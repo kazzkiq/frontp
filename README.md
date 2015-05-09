@@ -1,4 +1,4 @@
-# frontp
+# Frontp
 Frontp is a simple and general scaffolding pattern to create single-page projects focused fully on the client-side.
 
 
