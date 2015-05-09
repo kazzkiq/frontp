@@ -27,7 +27,7 @@ gulp compile:all
 node server.js
 ```
 
-If you want don't want to manually compile everything each time you edit a file you can run:
+If you want don't want to manually re-compile everything each time you can run:
 
 ```bash
 gulp watch:all
