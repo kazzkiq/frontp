@@ -1,6 +1,8 @@
 /*
  * As your app's backend is under development, you can simulate AJAX requests
  * to files into this folder to keep working on client-side.
+ * OBS.: JSON don't accept comments, so delete this "comment" block
+ * if you're going to use this file.
  */
 
 {
