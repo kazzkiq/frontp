@@ -84,7 +84,7 @@ gulp.task('compile:html', ['clean:html'], function(){
         .pipe(notify({message: opts.messages.templatesCompiled}));
 });
 
-gulp.task('compile:all', ['compile:styles', 'compile:scripts'], function(){
+gulp.task('compile:all', ['compile:styles', 'compile:scripts', 'compile:html'], function(){
     return notify({message: opts.messages.allCompiled});
 });
 
