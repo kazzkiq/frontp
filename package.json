@@ -1,16 +1,16 @@
 {
-  "name": "Writttit-frontend",
-  "version": "1.0.0",
-  "description": "We give you the paper, up to you to fill it.",
+  "name": "Frontp",
+  "version": "0.0.1",
+  "description": "Single-page client-side application environment made easy.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "testunit"
   },
   "keywords": [
-    "writttit"
+    "frontp"
   ],
   "author": "Claudio Holanda Jr",
-  "license": "Apache 2.0",
+  "license": "MIT License",
   "devDependencies": {
     "del": "^1.1.1",
     "gulp": "^3.8.11",
